@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heartbeat Service", "Heartbeat Service\Heartbeat Service.csproj", "{4EDA2F40-B73A-41B8-BD44-E42C1424ED40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EDA2F40-B73A-41B8-BD44-E42C1424ED40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EDA2F40-B73A-41B8-BD44-E42C1424ED40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EDA2F40-B73A-41B8-BD44-E42C1424ED40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EDA2F40-B73A-41B8-BD44-E42C1424ED40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
